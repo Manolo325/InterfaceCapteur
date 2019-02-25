@@ -1,3 +1,11 @@
-Composants                modele                DS acquis ?           
-Capteur                   SRF04                  oui 
-Timer                     NE555                  oui
+Composants                          modele                DS acquis ?  
+--------------------------------    --------------        -------------
+Capteur                             SRF04                  oui 
+Timer                               NE555                  oui
+régulateur linéaire de tension      LM7805                 oui
+R2R-Digital to Analog converter     R2R-?                  equivalent
+NOR gates (CMOS)                    CD4001B                oui
+Binary Counter (CMOS)               CD4020B                oui
+NAND gates (CMOS)                   CD4011B                oui
+AND gates                           SN74LS09               oui
+Source  ==> 9V
